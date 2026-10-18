@@ -205,3 +205,4 @@ to the test runner using `--arguments` and it will forward to your interpreter.
     generated content.
 *   `test/` – Test cases for the Lox implementations.
 *   `tool/` – Dart package containing the build, test, and other scripts.
+# interpreter_design_learnings
